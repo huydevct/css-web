@@ -35,9 +35,9 @@ body {
 .center-header {
    margin-right: auto;
 }
-.right-header {
+/* .right-header {
     
-}
+} */
 .left-wrapper {
     padding-right: 10px;
     align-self: flex-start;
